@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Objective
+# Home Lab SIEM Implementation for Breach Detection
+
+## Objective
 
 To design and deploy a Security Information and Event Management (SIEM) system within a home lab environment to monitor, detect, and respond to potential security breaches. This project aimed to enhance the security posture of a home lab by implementing real-time threat detection and analysis capabilities.
 
