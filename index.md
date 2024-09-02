@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Home Lab SOC Environment with SIEM Deployment
+## Azure Sentinel Home Lab
 
 ### **Description**: 
-This project focused on creating a fully functional SOC environment in a home lab, incorporating a SIEM system for real-time security monitoring and incident management. The goal was to simulate a professional SOC environment, enabling comprehensive oversight of security events and effective response to potential threats.
+The primary goal of this project was to leverage Azure Sentinel, a cloud-native SIEM (Security Information and Event Management) service, to monitor and respond to RDP login activities in a home lab environment. The focus was on setting up an alert mechanism that provides real-time notifications of RDP logins, thus improving security oversight and incident response.
 
 ### **Tools & Technologies**: 
-Elastic Stack (ELK), Azure, Kibana, Logstash, Filebeat, Elasticsearch, Python
+Azure, Azure Sentinel, KQL
 
-[SIEM Home Lab](./SIEM_Lab.html)
+[Azure Senintel Home Lab](./SIEM_Lab.html)
 
