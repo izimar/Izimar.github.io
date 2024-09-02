@@ -10,5 +10,5 @@ The primary goal of this project was to leverage Azure Sentinel, a cloud-native 
 ### **Tools & Technologies**: 
 Azure, Azure Sentinel, KQL
 
-[Azure Senintel Home Lab](./SIEM_Lab.html)
+[Azure Senintel Home Lab](AzureSentinel-RDPlab.md)
 
