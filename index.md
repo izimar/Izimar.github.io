@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./SIEM_Lab.html).
+[SIEM Home Lab](./SIEM_Lab.html).
 
 There should be whitespace between paragraphs.
 
