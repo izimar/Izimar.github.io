@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
-
-_yay_
+## Home Lab SIEM Implementation for Breach Detection
 
 [SIEM Home Lab](./SIEM_Lab.html).
 
