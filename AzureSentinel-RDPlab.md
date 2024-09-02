@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Home Lab SOC Environment with SIEM Deployment
+# Azure Sentinel Alert for RDP Login Monitoring in a Home Lab
 
 ## Objective
 
