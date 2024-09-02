@@ -8,4 +8,3 @@ _yay_
 
 [SIEM Home Lab](./SIEM_Lab.html).
 
-[back](./)
