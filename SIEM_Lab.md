@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Header 1
+# Objective
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+To design and deploy a Security Information and Event Management (SIEM) system within a home lab environment to monitor, detect, and respond to potential security breaches. This project aimed to enhance the security posture of a home lab by implementing real-time threat detection and analysis capabilities.
 
 ## Header 2
 
