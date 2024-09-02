@@ -9,7 +9,7 @@ layout: default
 To implement a comprehensive monitoring solution using Azure Sentinel within a home lab environment, focusing on detecting and alerting RDP (Remote Desktop Protocol) logins. The project aimed to enhance security visibility by creating an alert that triggers whenever an RDP login occurs, enabling timely responses to potential unauthorized access attempts.
 
 ### Created a custom rule for monitoring a user login via RDP
-(./CreatedRule.png)
+![test](CreatedRule.png)
 
 
 
