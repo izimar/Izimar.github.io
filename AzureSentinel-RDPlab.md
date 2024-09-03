@@ -15,7 +15,7 @@ To implement a comprehensive monitoring solution using Azure Sentinel within a h
 
 ---
 
-### Created a custom rule for monitoring a user login via RDP
+### Created a rule in Azure Sentinel for monitoring a user login via RDP
 ![test](CreatedRule.png)
 
 ---
@@ -34,6 +34,7 @@ RDP is a commonly used protocol for accessing machines remotely. A good way to h
 Still, there are several instances where this hardening technique will not be so effective:
 1. A machine with a white listed IP address becomes compromised, bypassing our Firewall rule.
 2. A motivated attacker uses IP spoofing to impersonate a white listed IP address.
+<p> <br> </p>
 In these cases, it would be ideal to have an EDR solution on the target machine to monitor the activity of any users that access the device. As always, having a strong password is a great way to deter bad actors.
 
 ---
