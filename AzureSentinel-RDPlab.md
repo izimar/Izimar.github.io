@@ -11,7 +11,7 @@ To implement a comprehensive monitoring solution using Azure Sentinel within a h
 ---
 
 ### Created a firewall rule to allow all inbound traffic to RDP. RDP is a very common attack vector, and this is not recommended in any serious setting.
-![](FirewallRPD.png)
+![](FirewallRDP.png)
 
 ---
 
