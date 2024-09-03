@@ -31,7 +31,9 @@ To implement a comprehensive monitoring solution using Azure Sentinel within a h
 
 ## Defense and Hardening
 
-RDP is a commonly used protocol for accessing machines remotely. A good way to harden a device against unauthorized access would be to only allow white listed IPs to access a machine via RDP. 
+RDP is a commonly used protocol for accessing machines remotely. A good way to harden a device against unauthorized access would be to only allow white listed IPs to access a machine via RDP.
+<p> <br> </p>
+In this screenshot, the updated RDP rule only allows RDP access from one IP address to any device in the network.
 ![](HardenedRDP.png)
 
 
