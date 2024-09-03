@@ -47,7 +47,9 @@ In these cases, it would be ideal to have an EDR solution on the target machine 
 ## Outcome
 
 The project successfully implemented a robust monitoring solution for RDP logins using Azure Sentinel in the home lab environment. The created alerts provide real-time visibility into RDP access activities, allowing for prompt detection of potential unauthorized access and enhancing overall security posture. This setup not only improves monitoring capabilities but also serves as a practical demonstration of cloud-native security tools.
-
+<p> <br> </p>
 
 
 [back](./)
+<p> <br> </p>
+<p> <br> </p>
