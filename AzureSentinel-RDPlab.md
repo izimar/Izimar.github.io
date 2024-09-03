@@ -8,26 +8,26 @@ layout: default
 
 To implement a comprehensive monitoring solution using Azure Sentinel within a home lab environment, focusing on detecting and alerting RDP (Remote Desktop Protocol) logins. The project aimed to enhance security visibility by creating an alert that triggers whenever an RDP login occurs, enabling timely responses to potential unauthorized access attempts.
 
-<p> <br> </p>
 ---
+<p> <br> </p>
 
 ### Created a firewall rule to allow all inbound traffic to RDP. RDP is a very common attack vector, and this is not recommended in any serious setting.
 ![](FirewallRDP.png)
 
-<p> <br> </p>
 ---
+<p> <br> </p>
 
 ### Created a rule in Azure Sentinel for monitoring a user login via RDP
 ![test](CreatedRule.png)
 
-<p> <br> </p>
 ---
+<p> <br> </p>
 
 ### Azure Sentinel was able to detect my successfull RDP login
 ![](incident.png)
 
-<p> <br> </p>
 ---
+<p> <br> </p>
 
 ## Defense and Hardening
 
@@ -42,6 +42,7 @@ Still, there are several instances where this hardening technique will not be so
 In these cases, it would be ideal to have an EDR solution on the target machine to monitor the activity of any users that access the device. As always, having a strong password is a great way to deter bad actors.
 
 ---
+<p> <br> </p>
 
 ## Outcome
 
