@@ -12,6 +12,8 @@ Azure, Azure Sentinel, Azure Log Analytics, Azure Monitor, RDP, Kusto Query Lang
 
 [Azure RDP Home Lab](AzureSentinel-RDPlab.md)
 
+<p> <br> </p>
+<p> <br> </p>
 
 ## Azure Sentinel SSH Lab
 
