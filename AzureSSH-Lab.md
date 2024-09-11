@@ -11,9 +11,12 @@ This project involves configuring SSH access on a Windows Virtual Machine hosted
 <p> <br> </p>
 
 ### These are the commands used on Azure CLI to properly configure SSH on a Windows machine
-[ ~ ]$ myResourceGroup=Izimar_Group
+<ul>
+<li> [ ~ ]$ myResourceGroup=Izimar_Group </li>
 [ ~ ]$ myVM=IzimarVM
 [ ~ ]$ az vm extension set --resource-group $myResourceGroup --vm-name $myVM --name WindowsOpenSSH --publisher Microsoft.Azure.OpenSSH --version 3.0
+</ul>
+
 
 <p> <br> </p>
 
