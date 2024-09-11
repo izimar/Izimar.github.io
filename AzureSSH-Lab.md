@@ -6,7 +6,8 @@ layout: default
 
 ## Objective
 
-This project involves configuring SSH access on a Windows Virtual Machine hosted on Azure and integrating it with Azure Sentinel for monitoring and detecting suceessful login attempts.
+To configure SSH access on a Windows Virtual Machine hosted on Azure and integrate it with Azure Sentinel for monitoring and detecting successful login attempts.
+
 ---
 <p> <br> </p>
 
