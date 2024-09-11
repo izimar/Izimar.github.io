@@ -58,26 +58,9 @@ look like this in bash: myResourceGroup=My_Variable
 ---
 <p> <br> </p>
 
-## Defense and Hardening
-
-RDP is a commonly used protocol for accessing machines remotely. A good way to harden a device against unauthorized access would be to only allow white listed IPs to access a machine via RDP.
-<p> <br> </p>
-In this screenshot, the updated RDP rule only allows RDP access from one IP address to any device in the network.
-![](HardenedRDP.png)
-
-
-Still, there are several instances where this hardening technique will not be so effective:
-1. A machine with a white listed IP address becomes compromised, bypassing our Firewall rule.
-2. A motivated attacker uses IP spoofing to impersonate a white listed IP address.
-<p> <br> </p>
-In these cases, it would be ideal to have an EDR solution on the target machine to monitor the activity of any users that access the device. As always, having a strong password is a great way to deter bad actors.
-
----
-<p> <br> </p>
-
 ## Outcome
 
-The project successfully implemented a robust monitoring solution for RDP logins using Azure Sentinel in the home lab environment. The created alerts provide real-time visibility into RDP access activities, allowing for prompt detection of potential unauthorized access and enhancing overall security posture. This setup not only improves monitoring capabilities but also serves as a practical demonstration of cloud-native security tools.
+The successful setup will provide secure SSH access to the Windows VM and enable real-time monitoring and detection of successful login attempts using Azure Sentinel, enhancing the overall security and visibillity of the VM environment.
 <p> <br> </p>
 
 
