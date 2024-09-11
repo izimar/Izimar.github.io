@@ -10,7 +10,7 @@ The primary goal of this project was to leverage Azure Sentinel, a cloud-native 
 ### **Tools & Technologies**: 
 Azure, Azure Sentinel, Azure Log Analytics, Azure Monitor, RDP, Kusto Query Language (KQL)
 
-[Azure Senintel Home Lab](AzureSentinel-RDPlab.md)
+[Azure RDP Home Lab](AzureSentinel-RDPlab.md)
 
 
 ## Azure Sentinel SSH Lab
@@ -20,4 +20,4 @@ This project involves configuring Secure Shell (SSH) access on a Windows Virtual
 ### **Tools & Technologies**: 
 Azure, Azure Sentinel, Azure Log Analytics, Azure Monitor, Azure CLI, SSH, Kusto Query Language (KQL)
 
-[Azure Senintel Home Lab](AzureSSH-Lab.md)
+[Azure SSH Home Lab](AzureSSH-Lab.md)
