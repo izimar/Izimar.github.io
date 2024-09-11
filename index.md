@@ -23,3 +23,6 @@ This project involves configuring Secure Shell (SSH) access on a Windows Virtual
 Azure, Azure Sentinel, Azure Log Analytics, Azure Monitor, Azure CLI, SSH, Kusto Query Language (KQL)
 
 [Azure SSH Home Lab](AzureSSH-Lab.md)
+
+<p> <br> </p>
+<p> <br> </p>
