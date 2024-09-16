@@ -61,7 +61,7 @@ look like this in bash: myResourceGroup=My_Resource
 
 ## Outcome
 
-The successful setup will provide secure SSH access to the Windows VM and enable real-time monitoring and detection of successful login attempts using Azure Sentinel, enhancing the overall security and visibillity of the VM environment.
+The successful setup will provide secure SSH access to the Windows VM and enable real-time monitoring and detection of successful login attempts using Azure Sentinel, enhancing the overall security and visibillity of the VM environment. Creating an alert for successful SSH login attempts is not very practical unless you also monitor for anomolies such as an unrecognized source IP, Geolocation, or time of day. This project was created as a quick example of setting up and monitoring SSH.
 <p> <br> </p>
 
 
