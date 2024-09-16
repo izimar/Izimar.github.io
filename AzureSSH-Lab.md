@@ -24,7 +24,7 @@ To configure SSH access on a Windows Virtual Machine hosted on Azure and integra
 My resource group variable needed an underscore due to the value containing a space.
 If you run into this issue, make sure the value of the variable has an underscore in place of
 the space. If your resource group name is "My Resource", then your variable declaration will
-look like this in bash: myResourceGroup=My_Variable
+look like this in bash: myResourceGroup=My_Resource
 
 ---
 <p> <br> </p>
