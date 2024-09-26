@@ -2,6 +2,7 @@
 layout: default
 ---
 
+## Click [here](Azure-Sentinel.md) to see my projects involving Microsoft Azure at its SIEM solution Azure Sentinel
 ## Azure Sentinel RDP Lab
 
 ### **Description**: 
