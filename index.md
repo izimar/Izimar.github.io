@@ -2,7 +2,9 @@
 layout: default
 ---
 
-##[Azure Sentinel Projects](Azure-Sentinel.md)
+### **Description**: 
+Azure Sentinel is Microsoft's cloud native security information and event management solution (SIEM) that can be used to detect and respond to potential security breaches.
+[Azure Sentinel Projects](Azure-Sentinel.md)
 
 ### **Description**: 
 The primary goal of this project was to leverage Azure Sentinel, a cloud-native SIEM (Security Information and Event Management) service, to monitor and respond to RDP login activities in a home lab environment. The focus was on setting up an alert mechanism that provides real-time notifications of RDP logins, thus improving security oversight and incident response.
